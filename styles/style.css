@@ -98,6 +98,7 @@ nav{
     width: 410px;
     height: 325px;
     padding: 32px;
+    margin-right: 24px;
     background-color: #5490F520;
     border-radius: 16px;
     border: none;
@@ -118,6 +119,7 @@ nav{
 }
 .future-description{
     font-size: 16px;
+    padding-bottom: 24px;
     color: #0E0E0E70;
 }
 .future-btn{
@@ -133,6 +135,7 @@ nav{
     width: 410px;
     height: 325px;
     padding: 32px;
+    margin-right: 24px;
     border-radius: 16px;
     border: none;
     background-color: #C6E4D6;
@@ -150,6 +153,7 @@ nav{
     width: 410px;
     height: 325px;
     padding: 32px;
+    margin-right: 24px;
     border-radius: 16px;
     border: none;
     background-color: #F7EBCF;
@@ -166,6 +170,11 @@ nav{
 
 /* Dr. Muhammad Yunus */
 .yunus{
+    padding: 48px 24px;
+    background-color: #0E0E0E15;
+    border-radius: 16px;
+    margin-top: 32px;
+    margin-bottom: 80px;
     background-image: url(./assets/quote-bg.png);
     background-repeat: no-repeat;
 }
