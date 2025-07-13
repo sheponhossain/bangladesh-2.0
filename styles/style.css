@@ -1,0 +1,184 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* Nevigation Style */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px 160px;
+}
+.nav-title{
+    font-size: 32px;
+    font-weight: bold;
+}
+.nav-btn{
+    font-size: 18px;
+    font-weight: 500;
+    padding: 15px 30px;
+    border: 2px solid #006A50;
+    border-radius: 8px;
+}
+
+/* Hero Section Style */
+
+.hero{
+    display: flex;
+    margin: 20px 160px 80px 160px;
+    background-color: #C6E4D6;
+    padding: 80px 100px;
+    justify-content: space-between;
+    border-radius: 24px;
+}
+.hero-name{
+    font-size: 24px;
+    font-weight: 500;
+    color: #0E0E0E50;
+}
+.hero-title{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.hero-btn{
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+    background-color: #006A50;
+    padding: 17px 34px;
+    border: none;
+    border-radius: 8px;
+}
+.hero-image img{
+    width: 474px;
+    height: 400px;
+}
+
+/* Pillars Card Section */
+.Pillars{
+    margin: 20px 150px 80px 160px;
+}
+.Pillars-name{
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+.Pillars-section{
+    display: flex;
+}
+.Pillars-card{
+    width: 302px;
+    height: 244px;
+    margin-right: 24px;
+    border-radius: 24px;
+    padding: 24px;
+    background-color: #0E0E0E15;
+}
+.Pillars-card-title{
+    color: #0E0E0E80;
+    font-size: 20px;
+    font-weight: bold;
+}
+.Pillars-card-description{
+    font-size: 16px;
+    color: #0E0E0E80;
+}
+
+/* The Vision of Future */
+.future{
+    margin: 20px 150px 80px 160px;
+}
+.future-card-section{
+    display: flex;
+}
+.digital-transformation{
+    width: 410px;
+    height: 325px;
+    padding: 32px;
+    background-color: #5490F520;
+    border-radius: 16px;
+    border: none;
+}
+.future h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.future p{
+    font-size: 16px;
+    color: #0E0E0E70;
+}
+.future-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #0E0E0E80;
+}
+.future-description{
+    font-size: 16px;
+    color: #0E0E0E70;
+}
+.future-btn{
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    padding: 11px 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #5490F5;
+}
+.Green-Energy{
+    width: 410px;
+    height: 325px;
+    padding: 32px;
+    border-radius: 16px;
+    border: none;
+    background-color: #C6E4D6;
+}
+.Green-Energy-btn{
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    padding: 11px 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #09A15C;
+}
+.Modern-Infrastructure{
+    width: 410px;
+    height: 325px;
+    padding: 32px;
+    border-radius: 16px;
+    border: none;
+    background-color: #F7EBCF;
+}
+.Modern-Infrastructure-btn{
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    padding: 11px 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #FFC239;
+}
+
+/* Dr. Muhammad Yunus */
+.yunus{
+    background-image: url(./assets/quote-bg.png);
+    background-repeat: no-repeat;
+}
+.yunus-content{
+    font-size: 16px;
+    color: #0E0E0E80;
+}
+.yunus-name{
+    font-size: 20px;
+    font-weight: 600;
+    color: #0E0E0E80;
+}
+.yunus-description{
+    font-size: 16px;
+    color: #0E0E0E60;
+}
