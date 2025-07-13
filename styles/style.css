@@ -191,3 +191,42 @@ nav{
     font-size: 16px;
     color: #0E0E0E60;
 }
+
+/* Recent News Section Style */
+
+.recent-news{
+    display: flex;
+    padding: 48px;
+    align-items: center;
+    margin-bottom: 24px;
+}
+.news-image img{
+    width: 408px;
+    height: 306px;
+    margin-right: 32px;
+    border-radius: 24px;
+}
+.news-content-title{
+    font-size: 32px;
+    font-weight: bold;
+    color: #0E0E0E80;
+}
+.news-time-date{
+    font-size: 16px;
+    color: #0E0E0E70;
+}
+.news-content-description{
+    font-size: 16px;
+    color: #0E0E0E70;
+}
+.news-content-btn{
+    font-size: 18px;
+    color: white;
+    background-color: #006A50;
+    border: none;
+    border-radius: 8px;
+    padding: 13px 26px;
+}
+.news-content{
+    margin-top: -30px ;
+}
